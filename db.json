@@ -1,0 +1,33 @@
+{
+    "acompanhamento1": 
+        {
+            "opção": "batata frita",
+            "tamanho": "P",
+            "serve": "2 pessoas",
+            "valor": 15
+        },
+
+   "acompanhamento2": 
+        {
+            "opção": "aipim",
+            "tamanho": "P",
+            "serve": "2 pessoas",
+            "valor": 10
+        },
+
+    "acompanhamento3": 
+        {
+            "opção": "salada de legumes",
+            "tamanho": "P",
+            "serve": "2 pessoas",
+            "valor": 8
+        },
+
+    "acompanhamento4": 
+        {
+            "opção": "salada de alface",
+            "tamanho": "P",
+            "serve": "2 pessoas",
+            "valor": 5
+        }
+     }
